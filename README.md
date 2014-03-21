@@ -30,7 +30,7 @@ BlogW100-jpg-70
 --
 
 1. Outputs to a specific folder.
-2. jpg set to [70%][jef_jpeg].
+2. jpg set to [70%][jef_jpg].
 3. long edge sized to 1000px.
 4. [Output Sharpening][3phasesharp] for screen enabled.
 
