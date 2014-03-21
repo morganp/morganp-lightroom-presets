@@ -1,0 +1,17 @@
+s = {
+	id = "FD1D8D4A-BF93-4F16-8574-89FFB7BE1E0B",
+	internalName = "2014 Copyright",
+	title = "2014 Copyright",
+	type = "Metadata",
+	value = {
+		["com.adobe.copyright"] = "Copyright 2014 Your Name. All Rights Reserved.",
+		["com.adobe.copyrightState"] = true,
+		["com.adobe.creator"] = "Your Name",
+		["com.adobe.creatorCity"] = "YourCity",
+		["com.adobe.creatorWorkEmail"] = "Your@Email,
+		["com.adobe.creatorWorkWebsite"] = "YourWeb",
+		["com.adobe.rightsUsageTerms"] = "No rights granted without prior written permission.",
+		uuid = "BA70F8ED-623D-4E60-A8AB-2E57AAB82346",
+	},
+	version = 0,
+}

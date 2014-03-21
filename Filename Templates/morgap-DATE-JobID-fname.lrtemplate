@@ -1,0 +1,27 @@
+s = {
+	deflated = {
+		{
+			"morganp-",
+			{
+				value = "date_YYYYMMDD",
+			},
+			"-",
+			{
+				value = "com.adobe.jobIdentifier",
+			},
+			"-",
+			{
+				value = "image_name",
+			},
+			name = "morgap-DATE-JobID-fname",
+			presetType = "Naming",
+		},
+		"AgTokenPresets",
+		"restoreTokenFromArchivedState",
+	},
+	id = "9191C6D5-69C9-47FF-B1AD-EADDB7474F3C",
+	internalName = "morgap-DATE-JobID-fname",
+	title = "morgap-DATE-JobID-fname",
+	type = "Naming_Tokens",
+	version = 0,
+}
