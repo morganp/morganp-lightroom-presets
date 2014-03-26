@@ -1,6 +1,8 @@
 LR5 Shortcuts
 =============
 
+To reveal the available shortcuts in Lightroom press `⌘/`
+
 ![](LR5-LibraryShortcuts.png) 
 ![](LR5-DevelopShortcuts.png)  
 ![](LR5-MapShortcuts.png)  
