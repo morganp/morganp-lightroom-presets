@@ -23,6 +23,7 @@ This is used on import to set the copyright for each image. Unfortunately it req
 		creatorWorkWebsite = "your_website",
 		rightsUsageTerms   = "No rights granted without prior written permission.",
 
+
 Export Presets
 ==
 
@@ -33,6 +34,17 @@ BlogW100-jpg-70
 2. jpg set to [70%][jef_jpg].
 3. long edge sized to 1000px.
 4. [Output Sharpening][3phasesharp] for screen enabled.
+
+Jpeg-92
+--
+
+1. Choose Folder Later. 
+2. File name use the 'morganp-DATE-JobID-fname' template.
+3. jpg set to [92%][jef_jpg].
+
+Manually choose my DRV (Derivative) Folder for the shoot, 92% Quality has very little drop in quality with a large reduction in filesize. This is used for my final copies.
+
+
 
 Filename Templates
 ==
